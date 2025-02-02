@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Ahmed Osman</h1>
 <h3 align="center">iam a senior software engineer</h3>
+<h3 align="center">🔍 Data Science Enthusiast</h3>
 <img align="right" alt="Coding" widith="400" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedosman210&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedosman210" /> </p>
